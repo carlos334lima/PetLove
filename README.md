@@ -12,7 +12,7 @@ $ yarn install
 $ yarn start         
 
 #Observação:
-Em caso de dúvida sobre o projeto, entre contato, ficarei feliz de esclarecer as dúvidas.
+Em caso de dúvidas/sugestões sobre o projeto, entre em contato, ficarei feliz em conversar sobre.
 ```
 
 [Linkedin](https://www.linkedin.com/in/carlos-henrique-lima-60a7ba1a3/)  
